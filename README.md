@@ -1,3 +1,5 @@
+
+
 <div align="center">
 <h1 align="center">!Hola! Soy Daniel👋</h1>
 
@@ -20,7 +22,7 @@
 <td width="50%">
 <h3 align="center">Database Exploration</h3>
 <div align="center">
-<a href="https://github.com/Danielfedez/Dataset_Exploration"><img src="https://github.com/ArisGuimera/Android-Expert/raw/main/assets/android-course-thumbnail.webp" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Danielfedez/Dataset_Exploration"><img src="https://github.com/user-attachments/assets/37ed3374-75c2-460a-8e5a-3a8f56463238" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
