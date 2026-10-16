@@ -19,7 +19,7 @@
   <table>
     <tr>
       <td width="100%" align="center">
-        <h3 align="center">Dataset Exploration</h3>
+        <h3 align="center">MobiAI</h3>
         <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
           <img 
             src="https://github.com/ArisGuimera/MobiAI-Core/blob/main/docs/assets/mobiai-hero.png?raw=true" 
@@ -30,9 +30,6 @@
         <p align="center">
           <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="https://youtu.be/3xJWvTp9bmM" target="_blank">
-            <img src="https://img.shields.io/badge/-Youtube-006DFF?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
         </p>
         <p align="center">
