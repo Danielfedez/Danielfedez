@@ -22,7 +22,7 @@
         <h3 align="center">MobiAI</h3>
         <a href="https://github.com/ArisGuimera/MobiAI-Core" target="_blank">
           <img 
-            src="https://github.com/ArisGuimera/MobiAI-Core/blob/main/docs/assets/mobiai-hero.png?raw=true" 
+            src="[https://github.com/ArisGuimera/MobiAI-Core/blob/main/docs/assets/mobiai-hero.png?raw=true](https://gemini.google.com/app/4f270504e9d49929?hl=es)" 
             width="400" 
             alt="MobiAI"
           >
@@ -31,7 +31,7 @@
           <a href="https://github.com/ArisGuimera/MobiAI-Core" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="https://youtu.be/3xJWvTp9bmM" target="_blank">
+          <a href="[https://youtu.be/3xJWvTp9bmM](https://www.etsy.com/de-en/shop/Zabrodzka?etsrc=sdt)" target="_blank">
             <img src="https://img.shields.io/badge/-Youtube-006DFF?style=for-the-badge&logo=youtube&logoColor=white">
           </a>
         </p>
