@@ -16,6 +16,14 @@
 * 🌐 Certificación de inglés Cambridge C2 Proficiency y aprendiendo Alemán.
 * 🚀 Siempre `aprendiendo cosas nuevas` y explorando nuevas metodologías cuantitativas.
 
+
+
+## Sobre mi
+* 🏫 Graduado en Física + Máster en Mercados Financieros, Gestión de Carteras y Sistemas de Inversión.
+* 📊 Especializado en Financial Data Analysis y Modelización de Riesgos.
+* 💻 Stack técnico: Python, SQL, Power BI, Excel.
+* 🌐 C2 English (Cambridge Certified) | Aprendiendo Alemán.
+
 * 
 * 📄 Échale un vistazo a mi [CV / Portfolio](#).
 
