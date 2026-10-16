@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Database Exploration</h3>
 <div align="center">
 <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank"><img width="1330" height="776" alt="prueba 1" src="https://github.com/user-attachments/assets/4f7670e6-0c7b-4f1a-936c-28aab40d2b22" />
 <p>
@@ -33,7 +33,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Portfolio Risk VaR Analysis</h3>
 <div align="center">                                       
 <a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank"><img width="1330" height="776" alt="var" src="https://github.com/user-attachments/assets/37ee7793-9a01-4bd7-a4ef-a70f71b04317" />
 
