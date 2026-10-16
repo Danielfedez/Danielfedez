@@ -28,7 +28,7 @@
           >
         </a>
         <p align="center">
-          <a href="https://github.com/ArisGuimera/MobiAI-Core" target="_blank">
+          <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-00AFFF?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://youtu.be/3xJWvTp9bmM" target="_blank">
