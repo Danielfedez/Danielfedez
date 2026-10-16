@@ -19,8 +19,8 @@
   <table>
     <tr>
       <td width="100%" align="center">
-        <h3 align="center">MobiAI</h3>
-        <a href="https://github.com/ArisGuimera/MobiAI-Core" target="_blank">
+        <h3 align="center">Dataset Exploration</h3>
+        <a href="[https://github.com/ArisGuimera/MobiAI-Core](https://github.com/Danielfedez/Dataset_Exploration)" target="_blank">
           <img 
             src="https://github.com/ArisGuimera/MobiAI-Core/blob/main/docs/assets/mobiai-hero.png?raw=true" 
             width="400" 
