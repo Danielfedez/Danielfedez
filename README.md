@@ -8,7 +8,7 @@
 ## Sobre mi
 
 * 🏫 Graduado en Física + Máster en Mercados Financieros, Gestión de Carteras y Sistemas de Inversión.
-* 📊 Especializado en Financial Data Analysis y Modelización de Riesgos.
+* 📊 Realizando prácticas en EONIQ Venture Capital como Financial Data Analyst y Model Developer.
 * 💻 Stack técnico: Python, SQL, Power BI, Excel.
 * 🌐 C2 English (Cambridge Certified) | Aprendiendo Alemán.
 * 🚀 !Siempre aprendiendo cosas nuevas!
