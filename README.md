@@ -11,29 +11,9 @@
 * 🌐 C2 English (Cambridge Certified) | Aprendiendo Alemán.
 * 🚀 !Siempre aprendiendo cosas nuevas!
 
-* 
-* 📄 Échale un vistazo a mi [CV / Portfolio](#).
 
-* 
-* 🎓 Formación relevante: `Finanzas Cuantitativas`, `Análisis Financiero`, `Matemática Aplicada` y `Estadística`.
 
-- -----------------------
-## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
-
-```javascript
-const Juhi = {
-  pronouns: "She" | "Her",
-  code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
-  technologies: {
-      frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["GCP", "AIML", "Databases"],
-  }
-}
-```
-------------------
-
-## Proyectos *bombitas*
+## Proyectos Cuantitativos
 
 <div align="center">
   <table>
