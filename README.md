@@ -1,28 +1,15 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Danielfedez</a> 👋</h1>
+<h1 align="center">!Hola! Soy Daniel👋</h1>
 
 
 <div align="left">
-
-## Sobre mi
-
-  
-* 🏫 Graduado en Física cursando el Máster en Mercados Financieros, Gestión de Carteras y Sistemas de Inversión.
-  
-* 📊 Orientado al Análisis de Datos Financieros, la Modelización de Riesgos y la toma de decisiones basada en datos.
-
-* 💡 Me apasiona resolver problemas complejos transformando datos brutos en dashboards e informes analíticos de alto impacto.
-
-* 🌐 Certificación de inglés Cambridge C2 Proficiency y aprendiendo Alemán.
-* 🚀 Siempre `aprendiendo cosas nuevas` y explorando nuevas metodologías cuantitativas.
-
-
 
 ## Sobre mi
 * 🏫 Graduado en Física + Máster en Mercados Financieros, Gestión de Carteras y Sistemas de Inversión.
 * 📊 Especializado en Financial Data Analysis y Modelización de Riesgos.
 * 💻 Stack técnico: Python, SQL, Power BI, Excel.
 * 🌐 C2 English (Cambridge Certified) | Aprendiendo Alemán.
+* 🚀 !Siempre aprendiendo cosas nuevas!
 
 * 
 * 📄 Échale un vistazo a mi [CV / Portfolio](#).
