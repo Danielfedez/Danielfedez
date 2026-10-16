@@ -2,17 +2,25 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Danielfedez</a> 👋</h1>
 
 
-- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
+<div align="left">
 
-- 🌱 I’m currently learning **Neural Networks**
+## Sobre mi
 
-- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
+  
+* 🏫 Graduado en Física cursando el Máster en Mercados Financieros, Gestión de Carteras y Sistemas de Inversión.
+  
+* 📊 Orientado al Análisis de Datos Financieros, la Modelización de Riesgos y la toma de decisiones basada en datos.
 
-- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
+* 💡 Me apasiona resolver problemas complejos transformando datos brutos en dashboards e informes analíticos de alto impacto.
 
-- 📫 How to reach me **pathakkakul@gmail.com**
+* 🌐 Certificación de inglés Cambridge C2 Proficiency y aprendiendo Alemán.
+* 🚀 Siempre `aprendiendo cosas nuevas` y explorando nuevas metodologías cuantitativas.
 
-- ⚡ Fun fact **I am a big Harry Potter fan! Expecto Patronum**
+* 
+* 📄 Échale un vistazo a mi [CV / Portfolio](#).
+
+* 
+* 🎓 Formación relevante: `Finanzas Cuantitativas`, `Análisis Financiero`, `Matemática Aplicada` y `Estadística`.
 
 - -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about Myself :)</b>
