@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Análisis exploratorio de una base de datos sobre ofertas de empleo del sector tecnológico, con el fin de investigar y documentar los roles y habilidades mejor pagadas.</p>
 </div>
                                                                                       
 </td>
@@ -41,7 +41,7 @@
 <a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Implementación y análisis de Historical VaR, comparando metodologías ponderadas y no ponderadas. Cálculo de Expected Shortfall (ES) y Earnings at Risk (EaR) como métricas complementarias de riesgo. Desarrollo de un proceso de backtesting.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
