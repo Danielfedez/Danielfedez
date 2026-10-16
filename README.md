@@ -19,14 +19,16 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Database Exploration</h3>
+<h3 align="center">Dataset Exploration</h3>
 <div align="center">
 <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank"><img width="1330" height="776" alt="prueba 1" src="https://github.com/user-attachments/assets/4f7670e6-0c7b-4f1a-936c-28aab40d2b22" />
 <p>
 <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Análisis exploratorio de una base de datos sobre ofertas de
+empleo del sector tecnológico, con el fin de investigar y
+documentar los roles y habilidades mejor pagadas.</p>
 </div>
                                                                                       
 </td>
@@ -43,7 +45,12 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Implementación y análisis de Historical VaR, comparando
+metodologías ponderadas y no ponderadas.
+Cálculo de Expected Shortfall (ES) y Earnings at Risk (EaR) como
+métricas complementarias de riesgo.
+Desarrollo de un proceso de backtesting para evaluar la
+adecuación del modelo VaR.
 </div>                                                             
 </table>                                                                                 
 </div>
