@@ -1,5 +1,8 @@
 
 
+
+
+
 <div align="center">
 <h1 align="center">!Hola! Soy Daniel👋</h1>
 
@@ -22,7 +25,7 @@
 <td width="50%">
 <h3 align="center">Database Exploration</h3>
 <div align="center">
-<a href="https://github.com/Danielfedez/Dataset_Exploration"><img src="https://github.com/user-attachments/assets/37ed3374-75c2-460a-8e5a-3a8f56463238" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/Danielfedez/Dataset_Exploration"><img src="https://github.com/user-attachments/assets/1b47df7e-36bb-4196-ac34-d83d3dc37828" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -37,7 +40,7 @@
                <br>
 <h3 align="center">Portfolio Risk VaR Analysis</h3>
 <div align="center">                                       
-<a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank"><img src="https://github.com/user-attachments/assets/7293ebe4-2449-4e2c-a693-2439e0431bcb" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank">
