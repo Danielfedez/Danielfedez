@@ -48,7 +48,7 @@ documentar los roles y habilidades mejor pagadas.</p>
 <a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="800">
 </a>
 </p>
 </p>Implementación y análisis de Historical VaR, comparando
