@@ -11,6 +11,7 @@
 * 🏫 Graduado en Física + Máster en Mercados Financieros, Gestión de Carteras y Sistemas de Inversión.
 * 📊 Realizando prácticas en <a href="https://eoniq.fund/">EONIQ Venture Capital</a> como Financial Data Analyst y Model Developer.
 * 💻 Stack técnico: Python, SQL, Power BI, Excel.
+* 📚 Librerías: Numpy, Pandas, Scikit-learn, Matplotlib
 * 🌐 C2 English (Cambridge Certified) | Aprendiendo Alemán.
 * 🚀 !Siempre aprendiendo cosas nuevas!
 
@@ -27,7 +28,7 @@
 <a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff">
 </a>
 </p>
 <p>Análisis exploratorio de una base de datos sobre ofertas de
@@ -48,7 +49,7 @@ documentar los roles y habilidades mejor pagadas.</p>
 <a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" height="800">
+<img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </a>
 </p>
 </p>Implementación y análisis de Historical VaR, comparando
