@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
 <h1 align="center">!Hola! Soy Daniel👋</h1>
 
@@ -49,7 +50,7 @@ documentar los roles y habilidades mejor pagadas.</p>
 <a href="https://github.com/Danielfedez/Portfolio_Risk_VaR_Analysis" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff">
 </a>
 </p>
 </p>Implementación y análisis de Historical VaR, comparando
@@ -62,3 +63,29 @@ adecuación del modelo VaR.
 </table>                                                                                 
 </div>
 <br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Job Market Analytics Dashboard</h3>
+<div align="center">
+<a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank"><img width="1330" height="774" alt="dashboard" src="https://github.com/user-attachments/assets/81898241-3d3b-42ef-9d29-7baeab46aadc" />
+<p>
+<a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+</a>
+</p>
+<p>Análisis exploratorio de una base de datos sobre ofertas de
+empleo del sector tecnológico, con el fin de investigar y
+documentar los roles y habilidades mejor pagadas.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<br>
+
+
+
