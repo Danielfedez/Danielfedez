@@ -77,9 +77,7 @@ adecuación del modelo VaR.
 <img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </a>
 </p>
-<p>Análisis exploratorio de una base de datos sobre ofertas de
-empleo del sector tecnológico, con el fin de investigar y
-documentar los roles y habilidades mejor pagadas.</p>
+<p>Panel analítico desarrollado en Power BI para explorar tendencias del mercado laboral tecnológico. Integra modelado en DAX, limpieza de datos en Power Query y un estudio enfocado en las dinámicas del mercado de datos y finanzas en Suiza.</p>
 </div>
                                                                                       
 </td>
