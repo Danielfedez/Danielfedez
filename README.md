@@ -69,9 +69,9 @@ adecuación del modelo VaR.
 <td width="50%">
 <h3 align="center">Job Market Analytics Dashboard</h3>
 <div align="center">
-<a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank"><img width="1330" height="774" alt="dashboard" src="https://github.com/user-attachments/assets/81898241-3d3b-42ef-9d29-7baeab46aadc" />
+<a href="https://github.com/Danielfedez/Job_Market_Analytics_Dashboard" target="_blank"><img width="1330" height="774" alt="dashboard" src="https://github.com/user-attachments/assets/81898241-3d3b-42ef-9d29-7baeab46aadc" />
 <p>
-<a href="https://github.com/Danielfedez/Dataset_Exploration" target="_blank">
+<a href="https://github.com/Danielfedez/Job_Market_Analytics_Dashboard" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <img src="https://img.shields.io/badge/Power%20BI-F1C912?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
